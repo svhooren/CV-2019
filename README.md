@@ -31,11 +31,11 @@ Studies on electoral geography of the Grand Duchy of Luxembourg and the Belgian 
 * Spanish: School knowledge, 4h/week for 3 years.
 
 ## Additional
-#### Relevant Coursework: 
+##### Relevant Coursework: 
 Analysis and spatial representations, Geographic Informations Systems, Quantitative Research and Modelization in Geography, Remote Sensing, Database, Geomarketing and Business Location.
-#### Relevant Computer Programs :
+##### Relevant Computer Programs :
 QGIS (Using it, making Plugins with PyQGIS), GRASS, ArcGIS, ArcMAP, RStudio (Data processing, presentation and blog with Shiny), WhiteBoxTools, OpenStreetMap, Django (in progress),GEODA, Excell.
-#### Programming Languages
+##### Programming Languages
 R, LaTeX, Markdown, PyQGIS, Python, SQL.
-#### Interests:
+##### Interests:
 Snowboard, Rugby, Reading, Self-learning new programming languages.
