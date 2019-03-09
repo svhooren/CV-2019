@@ -25,10 +25,10 @@ Urban Development Project on Dansaert District in Brussels (ULB).               
 Studies on electoral geography of the Grand Duchy of Luxembourg and the Belgian Luxembourg. (ULB)                    2015-2016
 
 ## Languages
-#### French: Mother tongue.
-#### Dutch: Almost bilingual, worked three years in a Dutch in addition to the school knowledge.
-#### English: Fluent, School knowledge.
-#### Spanish: School knowledge, 4h/week for 3 years.
+* French: Mother tongue.
+* Dutch: Almost bilingual, worked three years in a Flemish store in addition to the school knowledge.
+* English: Fluent, School knowledge.
+* Spanish: School knowledge, 4h/week for 3 years.
 
 ## Additional
 #### Relevant Coursework: 
