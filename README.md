@@ -1,6 +1,6 @@
 ## Contact
 
-![](https://github.com/svhooren/CV_2019_Public/blob/master/Photocv.jpg)
+![](https://github.com/svhooren/CV_2019_Public/blob/master/Photocv.png)
 
 * Van Hooren Simon
 * svhooren@protonmail.com
