@@ -2,8 +2,7 @@
 
 ![Simon](https://github.com/svhooren/CV_2019_Public/blob/master/Photocv.png)
 
-<img src="https://github.com/svhooren/CV_2019_Public/blob/master/Photocv.png" alt="hi" class="inline"/>
-
+![LSTM]({{ 'https://github.com/svhooren/CV_2019_Public/blob/master/Photocv.png' | absolute_url }})
 * Van Hooren Simon
 * svhooren@protonmail.com
 * 0499364099
