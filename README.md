@@ -1,8 +1,8 @@
 # Contact
 
-![Simon](https://github.com/svhooren/CV_2019_Public/blob/master/Photocv.png)
+![Simon](https://github.com/svhooren/CV_2019_Public/blob/master/Photocv.PNG)
 
-![LSTM]({{ 'https://github.com/svhooren/CV_2019_Public/blob/master/Photocv.png' | absolute_url }})
+
 * Van Hooren Simon
 * svhooren@protonmail.com
 * 0499364099
