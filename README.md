@@ -7,6 +7,7 @@
 * 0499364099
 
 ## Education
+
 #### Université Libre de Bruxelles 
 MA in Geography Science - Territorial Devlopment.                                                                    2017-2019
 #### Université Libre de Bruxelles 
@@ -17,6 +18,7 @@ BA in Bioengineering followed by a reorientation in Geography Science.          
 Human Sciences.                                                                                                      2005-2012
 
 ## Experiences and Projects
+
 #### Internship at [Champs Libres](https://www.champs-libres.coop) (1 month)
 Part of the LIDAXES's project, actualising the accumulation flow layer for Wallonia. GIS and IT.                     2018
 #### Scientific Project
@@ -25,12 +27,14 @@ Urban Development Project on Dansaert District in Brussels (ULB).               
 Studies on electoral geography of the Grand Duchy of Luxembourg and the Belgian Luxembourg. (ULB)                    2015-2016
 
 ## Languages
+
 * French: Mother tongue.
 * Dutch: Almost bilingual, worked three years in a Flemish store in addition to the school knowledge.
 * English: Fluent, School knowledge.
 * Spanish: School knowledge, 4h/week for 3 years.
 
 ## Additional
+
 ##### Relevant Coursework: 
 Analysis and spatial representations, Geographic Informations Systems, Quantitative Research and Modelization in Geography, Remote Sensing, Database, Geomarketing and Business Location.
 ##### Relevant Computer Programs :
