@@ -1,6 +1,6 @@
 # Contact
 
-![Simon](https://github.com/svhooren/CV_2019_Public/blob/master/Photocv.png)
+![Simon](/image/Photocv.png)
 
 
 * Van Hooren Simon
