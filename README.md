@@ -1,6 +1,6 @@
 # Contact
 
-![Simon](/image/Photocv.png)
+![Simon](/images/Photocv.png)
 
 
 * Van Hooren Simon
