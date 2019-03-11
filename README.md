@@ -2,6 +2,7 @@
 
 ![Simon](https://github.com/svhooren/CV_2019_Public/blob/master/Photocv.png)
 
+<img src="images/Photocv.png" alt="hi" class="inline"/>
 
 * Van Hooren Simon
 * svhooren@protonmail.com
