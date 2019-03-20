@@ -10,7 +10,7 @@
 # Education
 
 ## Université Libre de Bruxelles 
-MA in Geography Science - Territorial Devlopment.                                                                    2017-2019
+MA in Geography Science - Territorial Development.                                                                    2017-2019
 ## Université Libre de Bruxelles 
 BA in Geography Science.                                                                                             2014-2017
 ## Université Libre de Bruxelles
