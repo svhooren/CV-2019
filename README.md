@@ -39,9 +39,9 @@ Studies on electoral geography of the Grand Duchy of Luxembourg and the Belgian 
 ### Relevant Coursework: 
 Analysis and spatial representations, Geographic Informations Systems, Quantitative Research and Modelization in Geography, Remote Sensing, Database, Geomarketing and Business Location.
 ### Relevant Computer Programs :
-QGIS (Using it, making Plugins with PyQGIS), GRASS, ArcGIS, ArcMAP, RStudio (Data processing, presentation and blog with Shiny), WhiteBoxTools, OpenStreetMap, Django (in progress),GEODA, Excell.
+QGIS, GRASS, ArcGIS, ArcMAP, RStudio (Data processing, ShinyAPP), WhiteBoxTools, OpenStreetMap, GEODA, Excell.
 ### Programming Languages
-R, LaTeX, Markdown, PyQGIS, Python, SQL.
+R (self-educated), LaTeX (self-educated), Markdown (self-educated), PyQGIS (self-educated), Python (self-educated), SQL.
 ### Interests:
 Snowboard, Rugby, Reading, Self-learning new programming languages.
 
