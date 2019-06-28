@@ -20,6 +20,8 @@ Human Sciences.                                                                 
 
 # Experiences and Projects
 
+## Master's Thesis                                                        
+Thesis in electoral geography: "What are the links between electoral behavior and the spatial distribution of social classes at the intra-urban level? In particular, can we observe geographical differences between neighborhoods dominated by middle classes?" with Distinction                                                                                           2019
 ## Internship at [Champs Libres](https://www.champs-libres.coop) (1 month)
 Part of the LIDAXES's project, actualising the accumulation flow layer for Wallonia. GIS and IT.                     2018
 ## Scientific Project
@@ -37,7 +39,7 @@ Studies on electoral geography of the Grand Duchy of Luxembourg and the Belgian 
 # Additional
 
 ### Relevant Coursework: 
-Analysis and spatial representations, Geographic Informations Systems, Quantitative Research and Modelization in Geography, Remote Sensing, Database, Geomarketing and Business Location.
+Analysis and spatial representations, Geographic Informations Systems, Quantitative Research and Modelization in Geography, Remote Sensing, Database, Geomarketing and Business Location, Geomorphology (Glacial, fluvial and soil).
 ### Relevant Computer Programs :
 QGIS, GRASS, ArcGIS, ArcMAP, RStudio (Data processing, ShinyAPP), WhiteBoxTools, OpenStreetMap, GEODA, Excell.
 ### Programming Languages
