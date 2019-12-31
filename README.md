@@ -19,7 +19,8 @@ BA in Bioengineering followed by a reorientation in Geography Science.          
 Human Sciences.                                                                                                      2005-2012
 
 # Experiences and Projects
-
+## Geomatician at [CIRB](https://cirb.brussels/)
+Deal with Urbis Database, QGis, PyQGis, PyQt. Worked on a QGis Plugin for administration (Python, SQL).
 ## Master's Thesis                                                        
 Thesis in electoral geography: "What are the links between electoral behavior and the spatial distribution of social classes at the intra-urban level? In particular, can we observe geographical differences between neighborhoods dominated by middle classes?" with Distinction                                                                                           2019
 ## Internship at [Champs Libres](https://www.champs-libres.coop) (1 month)
@@ -43,7 +44,7 @@ Analysis and spatial representations, Geographic Informations Systems, Quantitat
 ### Relevant Computer Programs :
 QGIS, GRASS, ArcGIS, ArcMAP, RStudio (Data processing, ShinyAPP, Master Thesis), WhiteBoxTools, OpenStreetMap, GEODA, Excell.
 ### Programming Languages
-R (self-educated), LaTeX (self-educated), Markdown (self-educated), PyQGIS (self-educated), Python (self-educated, Django in progress), SQL, JavaScript (in progress).
+Python (work), PyQGIS and PyQt (work), R (master's Thesis), LaTeX, Markdown, SQL, HTML and CSS, JavaScript. All self-educated.
 ### Interests:
 Snowboard, Rugby, Reading, Self-learning new programming languages.
 
